@@ -1,0 +1,10 @@
+main database - vehicle_database.xlsx
+
+
+Dev. version 	| name		| info
+
+v14		| maino.py	| doesn't have a cam selection option
+
+v16		| main.py	| have a cam selection option
+
+v16x1		| mainx.py	| Extra: have cam selection option + detect full plate
